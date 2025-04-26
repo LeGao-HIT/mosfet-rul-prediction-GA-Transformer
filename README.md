@@ -3,5 +3,6 @@ Power switching devices serve as critical components in power conversion systems
 
 
 ### Overview
-![](docs/Overall process.jpg)
+![](mosfet-rul-prediction-GA-Transformer
+/docs/Overall process.jpg)
 Overview of remaining useful life prediction methodology employing Ga-Transformer approach.
