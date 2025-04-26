@@ -3,5 +3,5 @@ Power switching devices serve as critical components in power conversion systems
 
 
 ### Overview
-![](docs/Overall process.jpg)
+![](docs/Overall.jpg)
 Overview of remaining useful life prediction methodology employing Ga-Transformer approach.
