@@ -5,3 +5,13 @@ Power switching devices serve as critical components in power conversion systems
 ### Overview
 ![](docs/Overall.jpg)
 Overview of remaining useful life prediction methodology employing Ga-Transformer approach.
+
+
+## 📄 Related Publication
+
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FTPEL.2025.3586684-blue)](https://doi.org/10.1109/TPEL.2025.3586684)
+
+> **Le Gao** and **Chaoming Liu**  
+> *Prediction Method for the Remaining Useful Life of Power MOSFETs Based on Deep Learning*  
+> IEEE Transactions on Power Electronics, Early Access, 2025.  
+> DOI: 10.1109/TPEL.2025.3586684
